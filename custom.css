@@ -9,3 +9,13 @@
 main{
     margin-top: 3rem;
 }
+
+#post{
+    border-style: solid;
+    border-width: 1pt;
+    border-color: lightgrey;
+}
+
+#review{
+    padding-left: 1rem;
+}

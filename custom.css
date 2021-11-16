@@ -1,13 +1,23 @@
+
+
+main{
+    margin-top: 3rem;
+}
+
+.button{
+    box-shadow: 5px 5px 2px lightgrey;
+}
+
+#r-b{
+    margin-left: 1rem;
+}
+
 #title {
     margin-bottom: 0rem;
 }
 
 #tagline{
     margin-bottom: 6rem;
-}
-
-main{
-    margin-top: 3rem;
 }
 
 #post{

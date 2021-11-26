@@ -16,9 +16,9 @@ main{
     margin-bottom: 0rem;
 }
 
-#tagline{
+/* #tagline{
     margin-bottom: 6rem;
-}
+} */
 
 #post{
     border-style: solid;
@@ -32,19 +32,28 @@ main{
     text-shadow: 4px 4px lightgrey;
 }
 
-#tagbox{
-    position: relative;
-}
-
 #tag{
     position: absolute;
-    bottom: 0;
-    left: 0;
+    right: 0px;
+    height: 5%;
+    font-size: 7pt;
+    margin-right: 2rem;
+    margin-bottom: 1pt;
+
 }
 
 img{
     float: left;
     height: 100%;
     width: 100%;
+}
 
+.container{
+
+    padding: 20px;
+
+}
+
+#cover{
+    margin-bottom: 1rem;
 }
